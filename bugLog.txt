@@ -1,0 +1,5 @@
+- player cannot go left more than once//SOLVED
+
+- player can escape if going on left wall than going down 
+
+- soopdoop will somtimes wonder of the map

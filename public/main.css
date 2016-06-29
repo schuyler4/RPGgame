@@ -1,0 +1,24 @@
+#canvas {
+	background-color: #565051;
+}
+#playerLifeContaner {
+	width:998px;
+	height:10px;
+	border:2px solid #DC143C;
+}
+#playerXpContaner {
+	margin-top:2px;
+	width:998px;
+	height:10px;
+	border:2px solid #FDD017;
+}
+#playerLife {
+	width:998px;
+	height:10px;
+	background-color: #DC143C; 
+}
+#talkingBox {
+	width:100px;
+	height:100px;
+	border:2px solid black;
+}
